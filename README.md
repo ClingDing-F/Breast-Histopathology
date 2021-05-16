@@ -1,7 +1,10 @@
 # Breast-Histopathology
 Binary classification with CNN
+
 Modified the last 2 fc layers on CNN 
-Dataset: Breast Histopathology Cancer 
+
+Dataset: Breast Histopathology Cancer
+
 link: https://www.kaggle.com/paultimothymooney/breast-histopathology-images
 
 Version:
